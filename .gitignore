@@ -1,0 +1,2 @@
+# don't want anything coming from folder data-- don't sync anything inside data folder
+data/*                 
